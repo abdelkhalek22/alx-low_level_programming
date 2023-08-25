@@ -4,7 +4,7 @@ void first(void) __attribute__ ((constructor));
 
 /**
  * first - prints a sentence before the main
- *  function that prints You're beat! and yet, you must allow,\nI bore my house upon my back!\n before the main function is executed.
+ *  function that prints You're beat! and yet,..
  * function is executed
  */
 void first(void)
